@@ -6,6 +6,7 @@
 可以2个用户之间聊天，可以添加好友
 
 运行步骤：
+
 1、启动json-server:
 json-server --watch data.json
 
